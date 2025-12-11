@@ -1,0 +1,31 @@
+﻿1.  **What makes Focus Bear different from these apps?**
+
+Focus Bear integrates potential in a single, unified tool - blocking, habit/routine building, tracking, and neurodivergent-friendly design. Key differentiators:
+
+-   **Distraction blocking, focus modes and wellbeing approach** : Unlike some blockers that focus just on blocking (Freedom, Cold Turkey), Focus Bear also helps you build routines (morning/night), track progress, and embed healthy work habits. It adds features like automated break timers (prompting stretch, breathing, short exercises), habit stacking, and routine planning. Hence, supporting not just “work focus” but overall wellbeing. 
+- **Design**: The app is said to be created by a team with ADHD for people with difficulty focusing. This implies that Focus Bear is being made with executive-functioning and neurodiversity specifically, rather than overall productivity. 
+-  **Flexibility**: Whereas blockers such as Cold Turkey or Freedom are strict (block or nothing), Focus Bear has several focus modes, habit tracking, and routines customizations allowing the user flexibility to think about productivity in a way that aligns with energy and cognitive patterns. Focus bear records the activities, tracks the completed tasks, assists in the development of the consistency, and provides feedback. It not only prevents distractors, it also aids in the behavioural change over the long-term. 
+
+Because of its blend of distraction blocking, routine/habit support, and neurodivergent-friendly design, Focus Bear tends to work especially well for:
+
+-   Individuals with ADHD, Autism or executive-functional problems who require more than a simple lock out to manage their productivity and attention.
+-   Individuals who require a comprehensive solution that helps them find an equilibrium: concentration, relax, habits, and general health.
+-   Any person who would like to have a digital detox (blockers) and personal development (habits, healthy routines) but not the forced blocking.
+- Users who want a structural plan and not rigid schedules which makes them pressurised to follow plan 
+
+2. **If you were a user, why would you choose Focus Bear over competitors?**
+
+As a user, I would prefer Focus Bear over its competitors since it provides a more comprehensive, resource-affirming, and neurodiversity-friendly experience. In contrast to other apps like Freedom or Cold Turkey, which primarily aim at avoiding distractions, or other apps like Tiimo and Routinery, which focus on scheduling and routines, Focus Bear combines all of them into a single integrated system. This is because as a user, this lessens the burden of having to organize many applications and having one place to organize  day, routines and remain focused.
+
+I would also use Focus Bear since it is developed with neurodivergent users in mind specifically. The features are indicative of real problems associated with ADHD, Autism, and executive functioning, including inability to get moving on tasks, remain in routine, and be overstimulated. The application is more compassionate, user-friendly, and lifelike and contains advice instead of punishment. Focus Bear promotes regular progress rather than the use of shame-based messages or strict regulation, employing a gentle structure, positive reinforcement, and flexible routines to support the desired progress.
+
+The other reason why I would select Focus Bear is that it offers to combine distraction blocking with real-time routine instructions and wellbeing-oriented breaks. That is why instead of being considered a productivity tool only, it becomes a support system people can use on a daily basis and find the proper balance between focusing, habits, and self-care. The cross-device blocking, habit-tracking, morning/evening routines, and automatic break notifications of the app make the long-term behavioural change seem possible.
+
+3.   **What’s one feature that other apps have that Focus Bear doesn’t?**
+
+One feature that others apps like Tiimo and Routinery have that Focus Bear lag is that they   provide a very visual and animated timeline of daily routines. For example, Tiimo has colourful icons, visual countdowns, and a timeline-style planner to display the entire day at a glance in a visual way. This feature is very helpful for those who have stronger visual learning styles or those who use visuals to reduce anxiety and stay organized.
+Focus Bear does not yet include a fully visual daily timeline where users can password-protect their full schedules by adding colourful visual indicators (icons), using a visual format (e.g., drag-and-drop) and previewing what is coming up every hour. Adding a fully visual daily timeline into Focus Bear could benefit individuals who use visual cues for executive functioning and support individuals who learn through visual mapping.
+
+4.  **Based on your research, what’s one improvement you think Focus Bear could make?**
+
+Based on my reasearch about competing apps like Tiimo, Routinery, Freedom, and Cold Turkey, a  key  area  in  which Focus Bear has  an  opportunity  for  improvement is the  addition  of a visual daily timeline or schedule summarizing  user’s  entire  day. By  providing  users,  particularly  those  with  neurodiversity,  with a clear, icon-based view of their entire daily  schedule, apps  such  as  Tiimo  have  proven to be  beneficial  in  helping  them  know what is next, support transitions  from  one  task  to  another, and alleviate anxiety about  their  use  of time.  Focus Bear already  provides step-by-step navigation  of  each  routine;  however, the  app  currently does not support  users  with  a  comprehensive overview of their  entire day in one location. By  providing  users  with a basic, easy-to-read daily planner,  Focus  Bear  would  have  the  potential  to help users create  task  lists, focus sessions, break  periods, and other  routine  activities that support executive functioning, visual learning, and predictability. These  improvements  to Focus Bear would  enhance  the  platform's  competitiveness  by  providing  better  access  to  the  app for users who need visual structure,  as  well  as  reducing  users'  cognitive  load.
